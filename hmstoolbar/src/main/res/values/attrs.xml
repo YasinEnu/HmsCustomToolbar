@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HmsToolbar">
+        <attr name="setTitleText" format="string" />
+        <attr name="enableBackButton" format="boolean"/>
+        <attr name="searchAble" format="boolean"/>
+    </declare-styleable>
+</resources>
